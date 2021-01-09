@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Array Generation.vi" Type="VI" URL="../Array Generation.vi"/>
 	<Item Name="Filter Predicate.vi" Type="VI" URL="../Filter Predicate.vi"/>
 	<Item Name="Filter Test.vi" Type="VI" URL="../Filter Test.vi"/>
 	<Item Name="String Predicate.vi" Type="VI" URL="../String Predicate.vi"/>
