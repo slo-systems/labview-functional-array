@@ -14,6 +14,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Functional Array Templates.lvlib" Type="Library" URL="../libraries/Functional Array Templates/Functional Array Templates.lvlib"/>
 		<Item Name="Functional Array.lvlib" Type="Library" URL="../libraries/Functional Array/Functional Array.lvlib"/>
+		<Item Name="Functional Array.vipb" Type="Document" URL="../Functional Array.vipb"/>
+		<Item Name="Functional Array.vipc" Type="Document" URL="../Functional Array.vipc"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../libraries/Tests/Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
