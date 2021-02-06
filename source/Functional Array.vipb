@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-09 03:33:56" Modified_Date="2021-02-06 14:28:36" Creator="bmitc" Comments="" ID="f4595c17c31a9925cfb0414d1249accb">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-09 03:33:56" Modified_Date="2021-02-06 14:46:45" Creator="bmitc" Comments="" ID="53619e296cfa1f933253007fd752f98a">
   <Library_General_Settings>
     <Package_File_Name>SLO_Systems_lib_Functional_Array</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
+    <Library_Version>1.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\vipm-builds\labview-functional-array</Library_Output_Folder>
@@ -231,7 +231,7 @@
         <Path>libraries\Functional Array</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F7E82017161FC243123023B4DE34365A</GUID>
+      <GUID>8D29A51021C2AEEBB0BE967404725E69</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -420,7 +420,7 @@
         <Path>libraries\Functional Array Templates\Array Expression Loop.vit</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>75E158CB5AD614BDE3D62DCE530AA161</GUID>
+      <GUID>B75726885EED218746ED5EC96343F752</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
