@@ -12,6 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples.lvlib" Type="Library" URL="../libraries/Examples/Examples.lvlib"/>
 		<Item Name="Functional Array Templates.lvlib" Type="Library" URL="../libraries/Functional Array Templates/Functional Array Templates.lvlib"/>
 		<Item Name="Functional Array.lvlib" Type="Library" URL="../libraries/Functional Array/Functional Array.lvlib"/>
 		<Item Name="Functional Array.vipb" Type="Document" URL="../Functional Array.vipb"/>
