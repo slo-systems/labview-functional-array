@@ -8,10 +8,10 @@
 
 </Property>
 	<Item Name="Array Expression Loop.vit" Type="VI" URL="../Array Expression Loop.vit"/>
+	<Item Name="Filter Predicate with Index.vit" Type="VI" URL="../Filter Predicate with Index.vit"/>
+	<Item Name="Filter Predicate.vit" Type="VI" URL="../Filter Predicate.vit"/>
 	<Item Name="Folder.vit" Type="VI" URL="../Folder.vit"/>
 	<Item Name="Map and Folder.vit" Type="VI" URL="../Map and Folder.vit"/>
-	<Item Name="Map Function with Index.vit" Type="VI" URL="../Map Function with Index.vit"/>
-	<Item Name="Map Function.vit" Type="VI" URL="../Map Function.vit"/>
-	<Item Name="Predicate with Index.vit" Type="VI" URL="../Predicate with Index.vit"/>
-	<Item Name="Predicate.vit" Type="VI" URL="../Predicate.vit"/>
+	<Item Name="Map Processor with Index.vit" Type="VI" URL="../Map Processor with Index.vit"/>
+	<Item Name="Map Processor.vit" Type="VI" URL="../Map Processor.vit"/>
 </Library>
