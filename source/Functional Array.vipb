@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-09 03:33:56" Modified_Date="2021-02-06 00:09:22" Creator="bmitc" Comments="" ID="aa4948d103e884bbcd917910acf3fc59">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-01-09 03:33:56" Modified_Date="2021-02-06 13:48:12" Creator="bmitc" Comments="" ID="a5a35f5b2bd7633c0a016a23fc7cd04d">
   <Library_General_Settings>
     <Package_File_Name>SLO_Systems_lib_Functional_Array</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\vipm-builds\labview-functional-array</Library_Output_Folder>
@@ -136,7 +136,7 @@
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
       <License_LF_file_path/>
-      <Licensed_library_file_path/>
+      <Licensed_library_file_path>..\README.md</Licensed_library_file_path>
       <Perform_License_Binding>false</Perform_License_Binding>
       <Purchase_URL/>
       <License_File_Password/>
@@ -231,7 +231,7 @@
         <Path>libraries\Functional Array</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>283FA50AF9738BE27415B8D29512925F</GUID>
+      <GUID>FC989FF672794E615168523D8B4BF9D3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -420,7 +420,7 @@
         <Path>libraries\Functional Array Templates\Array Expression Loop.vit</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13F9FCB09F8BF473D3AACA940854C6D8</GUID>
+      <GUID>4962296AB681A60294C9DD4CFCCFDCB3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
