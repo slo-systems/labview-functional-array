@@ -7,5 +7,6 @@
 	<Item Name="Array Generation.vi" Type="VI" URL="../Array Generation.vi"/>
 	<Item Name="Filter Predicate.vi" Type="VI" URL="../Filter Predicate.vi"/>
 	<Item Name="Filter Test.vi" Type="VI" URL="../Filter Test.vi"/>
+	<Item Name="Full Example.vi" Type="VI" URL="../Full Example.vi"/>
 	<Item Name="String Predicate.vi" Type="VI" URL="../String Predicate.vi"/>
 </Library>
